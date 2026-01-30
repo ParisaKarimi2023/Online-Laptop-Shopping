@@ -7,7 +7,7 @@ The project simulates a real e-commerce platform, providing an intuitive interfa
 This project focuses on building a user-friendly, responsive, and visually appealing online store using modern web technologies.
 ## 2. Objectives
 
-The main objectives of this project are:
+The main objectives of this project are :
 <ul>
 <li>To design an online shopping platform for laptops</li>
 
