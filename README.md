@@ -31,3 +31,7 @@ The main objectives of this project are:
 <li>(Optional) Local Storage – for cart data storage</li>
 
 </ul>
+
+-------------------------------------
+
+#### You Can See [This Website](https://parisakarimi2023.github.io/Online-Laptop-Shopping/) as Online
